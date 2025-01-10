@@ -1,0 +1,14 @@
+
+Este repositório contém um conjunto de scripts para realizar a análise de dados de vendas e clientes de uma empresa varejista. O código visa proporcionar insights sobre as vendas e o comportamento dos clientes em diferentes canais e departamentos, além de permitir o 
+monitoramento da performance de vendas ao longo do tempo.
+
+  Objetivo
+
+O objetivo deste código é processar e analisar os dados de vendas e clientes de uma empresa varejista, gerando gráficos interativos que ilustram informações relevantes, como:
+
+- Idade média por bandeira (marca de cartão de crédito ou bandeira de pagamento).
+- Média de renda por canal de venda.
+- Preço médio com frete por departamento.
+- Vendas por data.
+
+Esses gráficos visam facilitar a visualização e compreensão de tendências, padrões de vendas e comportamento de clientes, ajudando na tomada de decisões estratégicas.
